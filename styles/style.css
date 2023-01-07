@@ -1,0 +1,270 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+/* header banner styles */
+.header-banner {
+    background-image: url(../images/banner/banner2.png);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.header-text {
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 650px;
+    top: 216px;
+    text-align: right;
+
+
+
+
+
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 65px;
+    margin-top: 15px;
+
+}
+
+.header-description {
+    text-align: right justify;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 15px;
+
+}
+
+
+.header-btn {
+    width: 160px;
+    height: 55px;
+    background-color: #F15B22;
+    border: 0;
+    color: antiquewhite;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 15px;
+    
+
+}
+/* about me styles */
+.about-me-section{
+background-color: lightgray;
+
+
+p
+}
+.me-img{
+   
+}
+.me-title{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 20px;
+    margin-bottom: 100px;
+    
+}
+.about-me-all{
+    display: flex;
+}
+.about-me-titles{
+ text-align: center;
+ margin-left: 120px;
+ margin-top: 70px;
+}
+.me-title1{
+font-size: 30px;
+font-weight: 700px;
+margin-bottom: 50px;
+}
+.me-description{
+text-align: right justify;
+color: #656660;
+}
+
+
+
+/* main content styles */
+.main-content {
+    display: flex;
+    background: #fdefef;
+    overflow: hidden;
+}
+
+.failures-title {
+    font-weight: 700px;
+    font-size: 40px;
+}
+
+.main-content-divs {}
+
+.failures-points {
+    display: flex;
+}
+
+.failures-description {
+    color: #444343;
+    margin: 24px;
+}
+
+.span-content {
+    
+    margin-top: 115px;
+    margin-left: 200px;
+    width: 416px;
+    height: 400px;
+
+}
+
+/* my plans  */
+.my-plans {
+
+
+    overflow: hidden;
+
+
+
+
+
+}
+
+
+
+.plans-headline {
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.plans-all {
+    margin-top: 100px;
+    display: flex;
+    margin-left: 80px;
+    gap: 100px;
+
+}
+
+.plans-title {
+    font-weight: 700;
+    font-size: 30px;
+    color: black;
+}
+
+.plans-description {
+    
+    font-weight: 500;
+    font-size: 25px;
+    color:#444343;
+}
+/* Watch section */
+.watch-section{
+    
+    background-image: url(../images/watch.png);
+  
+    margin-left: 170px;
+    margin-top: 350px;
+    width: 70%;
+    height: 700px;
+    left: 200px;
+    background-repeat: no-repeat;
+    
+    
+}
+.watch-title{
+    position: relative;
+    top: -234px;
+    left: 45px; 
+    font-size: 40px;
+    color:#fdefef ;
+
+}
+.watch-btn{
+    position: relative;
+    top: -222px;
+    border: 0;
+    width: 150px;
+    height: 40px;
+    left: 46px;
+    font-size: 18px;
+    font-weight: 200;
+    color: #F15B22;
+
+}
+.watch-img{
+     
+    width: 70%;
+    top: 2px;
+    left:1px;
+    height: 299px;
+   
+
+
+}
+/* footer styles */
+.footer-section{
+    
+    top: 800px;
+    background-color: black;
+    color:#FFFFFF;
+    display: flex;
+    gap: 50px;
+    overflow: hidden;
+   
+}
+/* future styles */
+.future-title{
+    position: relative;
+    left: 70px;
+    top: 15px;
+    text-align: justify;
+
+}
+.future-info{
+    position: relative;
+    left: 70px;
+    bottom: 20px;
+}
+/*  subscribe styles */
+.subscriber-email {
+    height: 28px;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 799px;
+    border-color: #fdefef;
+    position: absolute;
+    background-color: black;
+}
+.subs-title{
+    margin-top: 65px;
+    margin-left: 270px;
+    top: 60px;
+    left: 270px;
+    font-size: 20px;
+    
+}
+
+.subs-btn {
+        height: 35px;
+        width: 102px;
+        margin-left: -145px;
+        margin-top: 139px;
+
+        background-color: white;
+        color: #F15B22;
+    }
+    
