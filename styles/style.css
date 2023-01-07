@@ -239,6 +239,10 @@ color: #656660;
     left: 70px;
     bottom: 20px;
 }
+.icon-img{
+    margin-left: 58px;
+    width: 28px;
+}
 /*  subscribe styles */
 .subscriber-email {
     height: 28px;
